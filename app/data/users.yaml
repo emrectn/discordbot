@@ -1,0 +1,338 @@
+users:
+  814017908409237000:
+    name: "Ahmet Olguner"
+    discord_user: "Ahmet Olguner#9125"
+    trello_name: "Ahmet Olguner"
+    tc_user: "TCAOLGUNER"
+    email: "ahmet.olguner@turkcell.com.tr"
+
+  689003027998441539:
+    name: "Atakan Bebek"
+    discord_user: "Atakan#0784"
+    trello_name: "atakan.bebek"
+    tc_user: "TCABEBEK"
+    email: "atakan.bebek@turkcell.com.tr"
+
+  725448463621292192:
+    name: "Ayşe Vildan"
+    discord_user: "AyşeVildan#5679"
+    trello_name: "Ayse Vildan"
+    tc_user: "TCANURDAG"
+    email: "ayse.nurdag@turkcell.com.tr"
+
+  860490422832332811:
+    name: "Aysel Aydin"
+    discord_user: "Aysel Aydin#1611"
+    trello_name: "Aysel Aydin"
+    tc_user: "TCAYSAYDIN"
+    email: "aydin.aysel@turkcell.com.tr"
+
+  755085116686073886: 
+    name: "Berkay Topçu" 
+    discord_user: "Berkay#4424"
+    trello_name: "Berkay Topçu"
+    tc_user: "TCBETOPCU"
+    email: "berkay.topcu@turkcell.com.tr"
+
+  753896648463220737: 
+    name: "Bora Tosun"
+    discord_user: "bora.tosun#2976"
+    trello_name: "Bora Tosun"
+    tc_user: "TCBOTOSUN"
+    email: "bora.tosun@turkcell.com.tr"
+
+  689004363188011094: 
+    name: "Burak Aytan"
+    discord_user: "burakaytan#2029"
+    trello_name: "Burak Aytan"
+    tc_user: "TCBAYTAN"
+    email: "burak.aytan@turkcell.com.tr"
+
+  None: # Burak Bagatarhan
+    name: "Burak Bagatarhan"
+    discord_user: ""
+    trello_name: ""
+    tc_user: ""
+    email: "burak.bagatarhan@turkcell.com.tr"
+
+  689006435685761027:
+    name: "Mehmet Büyükzincir"
+    discord_user: "buyukzincir#9296"
+    trello_name: "Buyukzincir"
+    tc_user: "mehmet.buyukzincir@turkcell.com.tr"
+    email: "TCMEBUYUKZINCIR"
+
+  557981672017231873:
+    name: "Caner Çanak"
+    discord_user: "caner.canak#8646"
+    trello_name: "caner.canak"
+    tc_user: "TCCCANAK"
+    email: "caner.canak@turkcell.com.tr"
+
+  773429177692979251:
+    name: "Ece Kutlu"
+    discord_user: "ecekutlu#2582"
+    trello_name: "Ece Kutlu"
+    tc_user: "TCECKUTLU"
+    email: "ece.kutlu@turkcell.com.tr"
+
+  876726473698983938:
+    name: "Elif Byaraktar"
+    discord_user: "Elif Bayraktar#4220"
+    trello_name: "Elif Bayraktar"
+    tc_user: "TCRBAYRAKTAR"
+    email: "elif.bayraktar@turkcell.com.tr"
+
+  688711382081863783:
+    name: "Emin Güre"
+    discord_user: "emingure#3637"
+    trello_name: "Emin Güre"
+    tc_user: "TCMGURE"
+    email: "muhammed.gure@turkcell.com.tr"
+
+  884378911931269150:
+    name: "Emre Artış"
+    discord_user: "aemreartis#7404"
+    trello_name: "Emre Artış"
+    tc_user: "TCAARTIS"
+    email: "abdulhakim.artis@turkcell.com.tr"
+
+  727829546887413760:
+    name: "Emre Aydın"
+    discord_user: "Emre Aydın#9093"
+    trello_name: "Emre Aydın"
+    tc_user: "TCEMRAYDIN"
+    email: "aydin.emre@turkcell.com.tr"
+
+  876735003642462218:
+    name: "Emre Çetin"
+    discord_user: "emrecetin#1420"
+    trello_name: "Emre Cetin"
+    tc_user: "TCEMCETIN"
+    email: "emre.cetin@turkcell.com.tr"
+
+  689002735172976687:
+    name: "Erdem Kaya"
+    discord_user: "ErdemKaya#4009"
+    trello_name: "erdem.kaya"
+    tc_user: "TCERDKAYA"
+    email: "erdem.kaya@turkcell.com.tr"
+
+  837664074380607568:
+    name: "Eren Beşli"
+    discord_user: "Eren Beşli#8356"
+    trello_name: "Eren Beşli"
+    tc_user: "TCEBESLI"
+    email: "eren.besli@turkcell.com.tr"
+
+  691722539373822043:
+    name: "Erkan Haspulat"
+    discord_user: "erkan#0318"
+    trello_name: "Erkan Haspulat"
+    tc_user: "TTEHASPULAT"
+    email: "erkan.haspulat@turkcell.com.tr"
+
+  894573498654154782:
+    name: "Erol Çıtak"
+    discord_user: "Erol Çıtak#8064"
+    trello_name: "Erol Çıtak"
+    tc_user: "TCEROCITAK"
+    email: "erol.citak@turkcell.com.tr"
+
+  905527879704645662:
+    name: "Ersin Kılıç"
+    discord_user: "ersin#2273"
+    trello_name: "Ersin Kılıç"
+    tc_user: "TCERSKILIC"
+    email: "kilic.ersin@turkcell.com.tr"
+
+  742619224169644082:
+    name: "Mustafa Yılmaz"
+    discord_user: "mustafayilmaz#1243"
+    trello_name: "fthmstfylmz"
+    tc_user: "TCMUSTAFAYILMAZ"
+    email: "mustafa.yilmaz3@turkcell.com.tr"
+
+  696424107071504455:
+    name: "Gizem Kılıçoğlu"
+    discord_user: "gizemk#6106"
+    trello_name: "Gizem KILIÇOĞLU"
+    tc_user: "TCULKLICOGLU"
+    email: "ulker.kilicoglu@turkcell.com.tr"
+
+  293864994599337984:
+    name: "Alperen Erol"
+    discord_user: "Alperen#4066"
+    trello_name: "H. Alperen Erol"
+    tc_user: "TCHEROL"
+    email: "halil.erol@turkcell.com.tr"
+
+  394445522720784386:
+    name: "Hakan Taşköprü"
+    discord_user: "Hakan#3036"
+    trello_name: "Hakan Taşköprü"
+    tc_user: "TCHTASKOPRU"
+    email: "hakan.taskopru@turkcell.com.tr"
+
+  543142534772162560:
+    name: "Halil Demirel"
+    discord_user: "Halil | Demirel#5918"
+    trello_name: "Halil İbrahim Demirel"
+    tc_user: "TCHDEMIREL"
+    email: "halil.demirel@turkcell.com.tr"
+
+  876740650521989131:
+    name: "İsmail Atalay"
+    discord_user: "Ismail#0449"
+    trello_name: "Ismail ATALAY"
+    tc_user: "TCIATALAY"
+    email: "atalay.ismail@turkcell.com.tr"
+
+  798479961463193610:
+    name: "Ilgın Doğan"
+    discord_user: "ILGIN DOĞAN#4614"
+    trello_name: "ilgin dogan"
+    tc_user: "TCILGDOGAN"
+    email: "ilgin.dogan@turkcell.com.tr"
+
+  688713301127200853:
+    name: "İlknur Durgar"
+    discord_user: "idurgar#0859"
+    trello_name: "ilknur durgar"
+    tc_user: "TCIEL-KAHLOUT"
+    email: "ilknur.durgar@turkcell.com.tr"
+
+  884381662761353247:
+    name: "Kutay Kılıç"
+    discord_user: "KutayKılıç#4330"
+    trello_name: "Kutay Kılıç"
+    tc_user: "TCKUKILIC"
+    email: "kutay.kilic@turkcell.com.tr"
+
+  883357755916816405:
+    name: "Mahmut Yılmaz"
+    discord_user: "Mahmut YILMAZ#6630"
+    trello_name: "Mahmut YILMAZ"
+    tc_user: "TCMAHYILMAZ"
+    email: "yilmaz.mahmut@turkcell.com.tr"
+
+  878203650080649266:
+    name: "Sinan Ergen"
+    discord_user: "M. Sinan Ergen#1082"
+    trello_name: "Mithat Sinan Ergen"
+    tc_user: "TCMERGEN"
+    email: "mithat.ergen@turkcell.com.tr"
+
+  876737750068498483:
+    name: "Raşit Tosun"
+    discord_user: "Muhammet Raşit Tosun#5850"
+    trello_name: "Muhammet Raşit Tosun"
+    tc_user: "TCMTOSUN"
+    email: "muhammet.tosun@turkcell.com.tr"
+
+  884352772412170250:
+    name: "Omar Elcircevi"
+    discord_user: "Omarcevi#4567"
+    trello_name: "Omar Elcircevi"
+    tc_user: "TCOELCIRCEVI"
+    email: "omar.elcircevi@turkcell.com.tr"
+
+  774262768495886366:
+    name: "Serkan Cengiz"
+    discord_user: "Serkan Cengiz#7108"
+    trello_name: "Serkan Ekrem Cengiz"
+    tc_user: "TCSCENGIZ"
+    email: "serkan.cengiz@turkcell.com.tr"
+
+  844680002062647347:
+    name: "Sezen Felekoğlu"
+    discord_user: "Sezen#6727"
+    trello_name: "Sezen FELEKOĞLU"
+    tc_user: "TCSYAVAN"
+    email: "sezen.yavan@turkcell.com.tr"
+
+  750425377440006294:
+    name: "Şahika Yaylı"
+    discord_user: "sahika#9545"
+    trello_name: "Şahika Betül Yaylı"
+    tc_user: "TCSYAYLI"
+    email: "sahika.yayli@turkcell.com.tr"
+
+  828628992633339935:
+    name: "Şeyma Erdem"
+    discord_user: "şeyma erdem#7765"
+    trello_name: "şeyma erdem"
+    tc_user: "TCNAERDEM"
+    email: "seyma.erdem@turkcell.com.tr"
+
+  885466122701398027:
+    name: "Şeyma Kandemir"
+    discord_user: "seymakandemir#2293"
+    trello_name: "Şeyma Kandemir"
+    tc_user: "TCSKANDEMIR"
+    email: "seyma.kandemir@turkcell.com.tr"
+
+  744789671027933265:
+    name: "Tuğçe Koçak"
+    discord_user: "tugce.kocak@turkcell.com.tr"
+    trello_name: "tugce kocak#0553"
+    tc_user: "Tuğçe Koçak"
+    email: "TCTKOCAK"
+
+  529732272849420298:
+    name: "Tunahan Ergül"
+    discord_user: "Tunahan#2969"
+    trello_name: "Tunahan Ergül"
+    tc_user: "TCTERGUL"
+    email: "tunahan.ergul@turkcell.com.tr"
+
+  689000370503942175:
+    name: "Uğur Doktor"
+    discord_user: "Ugur D#1075"
+    trello_name: "Ugur"
+    tc_user: "TCUGDOKTUR"
+    email: "ugur.doktur@turkcell.com.tr"
+
+  727829082535886948:
+    name: "Alihan Dikel"
+    discord_user: "alihan#8548"
+    trello_name: "Umut Alihan Dikel"
+    tc_user: "TCUDIKEL"
+    email: "alihan.dikel@turkcell.com.tr"
+
+  852527554690285620:
+    name: "Yasemin Yetimova"
+    discord_user: "Yasemin#2260"
+    trello_name: "Yasemin Yetimova"
+    tc_user: "TCYYETIMOVA"
+    email: "yasemin.yetimova@turkcell.com.tr"
+
+  795961370260537354:
+    name: "Yeliz Gülmüş"
+    discord_user: "Yeliz Gülmüş#9987"
+    trello_name: "Yeliz Gülmüş"
+    tc_user: "TCYGULMUS"
+    email: "yeliz.gulmus@turkcell.com.tr"
+
+  697024152334368770:
+    name: "Yusuf Çakmak"
+    discord_user: "yusufcakmak#8759"
+    trello_name: "Yusuf Çakmak"
+    tc_user: "TCYUCAKMAK"
+    email: "yusuf.cakmak@turkcell.com.tr"
+
+  638993484652478464:
+    name: "Yusuf Yazıcı"
+    discord_user: "Yusuf Y.#5659"
+    trello_name: "Yusuf Yazıcı"
+    tc_user: "TCYYAZICI"
+    email: "yusuf.yazici@turkcell.com.tr"
+
+  870247653118709820:
+    name: "Zeynep Uslu"
+    discord_user: "Zeynep Uslu#5446"
+    trello_name: "Zeynep Uslu"
+    tc_user: "TCZEUSLU"
+    email: "zeynep.uslu@turkcell.com.tr"
+
+

@@ -1,0 +1,1027 @@
+{
+    "\u015eahika Bet\u00fcl Yayl\u0131": {
+        "AI HEALTH": {
+            "TODO": [
+                "STT Radyoloji Rapor Yaz\u0131m\u0131"
+            ],
+            "IN PROGRESS": [
+                "Ba\u015fkent \u00dcni - Diz Eklem Dejenerasyonu"
+            ]
+        },
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "Inno4Health",
+                "Akademik Dan\u0131\u015fmanl\u0131k - Ba\u015fkent \u00dcniversitesi Kemik K\u0131r\u0131k Tespit",
+                "Gazi \u00dcni - voleybol yaralanmalar\u0131 konusu",
+                "YT\u00dc H\u00fcseyin \u00dcvet - 1505 ve 1001 spor yaralanmalar\u0131",
+                "F\u0131rat \u00dcni - ila\u00e7 prospekt\u00fcslerinin kontrendikasyonlar\u0131n\u0131n belirlenmesi"
+            ]
+        },
+        "OPT\u0130K": {
+            "In-Progress": [
+                "[Optik Mod\u00fcl\u00fc] Test",
+                "[Optik Mod\u00fcl\u00fc] Kimlik Testleri",
+                "[Optik Mod\u00fcl\u00fc] Kelime bazl\u0131 d\u00f6n\u00fc\u015flerdeki koordinat iyile\u015ftirmesi",
+                "[OCR] T\u00fcrk\u00e7e Karakter Tan\u0131ma \u0130yile\u015ftirme - PADDLE",
+                "Kimlik test seti"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "HBYS Geriatri B\u00f6l\u00fcm\u00fc STT"
+            ]
+        }
+    },
+    "Kutay K\u0131l\u0131\u00e7": {
+        "AI HEALTH": {
+            "TODO": [
+                "STT Radyoloji Rapor Yaz\u0131m\u0131"
+            ],
+            "IN PROGRESS": [
+                "1505 - HBYS \u0130la\u00e7 Yan Etkileri Alert Sistemi - F\u0131rat \u00dcni",
+                "1505 - Reversible \u0130nme Alanlar\u0131n\u0131n Belirlenmesi - Medeniyet \u00dcni"
+            ]
+        },
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "F\u0131rat \u00dcni - ila\u00e7 prospekt\u00fcslerinin kontrendikasyonlar\u0131n\u0131n belirlenmesi"
+            ]
+        },
+        "Image&Video Processing": {
+            "TO-DO": [
+                "[ISG] Omsan Depoda ISG Denetimi"
+            ]
+        }
+    },
+    "Ersin K\u0131l\u0131\u00e7": {
+        "AI HEALTH": {
+            "IN PROGRESS": [
+                "1505 - HBYS \u0130la\u00e7 Yan Etkileri Alert Sistemi - F\u0131rat \u00dcni",
+                "1505 - Reversible \u0130nme Alanlar\u0131n\u0131n Belirlenmesi - Medeniyet \u00dcni"
+            ]
+        },
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[PATROL] | FEATURE | Fraud ekibinden geri besleme yap\u0131s\u0131, FOYA do\u011fruluk de\u011ferlendirmesi",
+                "[PATROL] | Yeni kimliklerdeki yeni sahtecilik senaryosu i\u00e7in model"
+            ]
+        },
+        "Image&Video Processing": {
+            "TO-DO": [
+                "[ISG] Omsan Depoda ISG Denetimi"
+            ]
+        }
+    },
+    "Umut Alihan Dikel": {
+        "AI HEALTH": {
+            "IN PROGRESS": [
+                "1505 - HBYS \u0130la\u00e7 Yan Etkileri Alert Sistemi - F\u0131rat \u00dcni"
+            ]
+        },
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "F\u0131rat \u00dcni - ila\u00e7 prospekt\u00fcslerinin kontrendikasyonlar\u0131n\u0131n belirlenmesi"
+            ]
+        },
+        "ROBOTIC PROCESS AUTOMATION": {
+            "IN PROGRESS": [
+                "Robot Optimizasyonu"
+            ]
+        },
+        "SENSAI & Crawlers": {
+            "In Progress": [
+                "[SENSAI] Semantic Feature",
+                "[SENSAI ReguLetter] Front-End",
+                "[Azercell] Crawler \u00c7al\u0131\u015fmalar\u0131 S\u00fcre\u00e7ler (POC)",
+                "Binary Risk Classification modeli i\u00e7in veri etiketleme"
+            ]
+        }
+    },
+    "Burak Aytan": {
+        "AI HEALTH": {
+            "IN PROGRESS": [
+                "1505 - HBYS \u0130la\u00e7 Yan Etkileri Alert Sistemi - F\u0131rat \u00dcni"
+            ]
+        },
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "F\u0131rat \u00dcni - \u0130nsan sesiyle kalp yetmezli\u011fi tespiti",
+                "KT\u00dc - Hukuk taraf\u0131nda s\u00f6zle\u015fme \u00e7al\u0131\u015fmas\u0131",
+                "F\u0131rat \u00dcni - ila\u00e7 prospekt\u00fcslerinin kontrendikasyonlar\u0131n\u0131n belirlenmesi"
+            ]
+        },
+        "Chatbot Product \ud83d\ude80": {
+            "To-Do": [
+                "Entity taraf\u0131nda occurence synonym d\u00fczenlenmesi",
+                "[NLU] - Typo Correction"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "TO-DO": [
+                "Sipari\u015fim Chatbot"
+            ],
+            "IN-PROGRESS": [
+                "Celly - Chatbot History Omnichannel'da G\u00f6sterimi",
+                "Celly - Internal Proaktivite Salla Kazan"
+            ]
+        },
+        "NLP": {
+            "In Progress": [
+                "Kurumsal Fatura \u0130tiraz Tasklar\u0131 Analizi"
+            ]
+        },
+        "TBot-Dialogs": {
+            "Yap\u0131lacaklar (FAZ1)": [
+                "ortak komponentler"
+            ]
+        }
+    },
+    "Ugur": {
+        "AI HEALTH": {
+            "IN PROGRESS": [
+                "Ba\u015fkent \u00dcni - Diz Eklem Dejenerasyonu"
+            ]
+        },
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "IOD",
+                "Kulu\u00e7ka \u0130\u015fbirli\u011fi - Liveness Detection"
+            ]
+        },
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[FOYA] | AIP taraf\u0131nda ba\u015far\u0131l\u0131 sorgu say\u0131lmas\u0131",
+                "[FOYA] | OCR Enetgrasyonu taraf\u0131ndaki geli\u015ftirme"
+            ]
+        },
+        "Image&Video Processing": {
+            "IN-PROGRESS": [
+                "Yaani NSFW yeni data ile egitim",
+                "Yaani NSFW yeni model egitim denemesi",
+                "[YAANI - Image Similarity] Feature Extraction Servisi - Development",
+                "[AYNA - MASKE] - Yeniden model e\u011fitimi ve bayide son testler",
+                "[5G Remote Driving] - Ara\u00e7 i\u00e7i video analiz"
+            ]
+        },
+        "SIMA": {
+            "IN-PROGRESS (BAYI ANALITIK)": [
+                "TIM - Module: Emotion",
+                "Edge Device-Kamera \u0130halesi & POC",
+                "Module: Age",
+                "Module: Gender",
+                "Module: Mask"
+            ]
+        },
+        "Sales": {
+            "IN-PROGRESS": [
+                "Togg- Derin O\u0308g\u0306renme Tabanl\u0131 Arac\u0327 I\u0307c\u0327i Yu\u0308z Tespit Tan\u0131ma ve Analiz Sistemi Gelis\u0327tirme Projesi"
+            ]
+        }
+    },
+    "ilgin dogan": {
+        "AI HEALTH": {
+            "IN PROGRESS": [
+                "SEHIR HASTANESI FRAUD"
+            ]
+        },
+        "AI Lab": {
+            "In Progress": [
+                "Y\u00fcz tan\u0131ma ile \u00e7\u0131k\u0131\u015f"
+            ]
+        },
+        "Image&Video Processing": {
+            "TO-DO": [
+                "[ISG] Omsan Depoda ISG Denetimi"
+            ],
+            "IN-PROGRESS": [
+                "[5G Remote Driving] - Ara\u00e7 i\u00e7i video analiz"
+            ]
+        },
+        "SIMA": {
+            "IN-PROGRESS (BAYI ANALITIK)": [
+                "TIM - Face Detection + Tracking prototip",
+                "Edge Device-Kamera \u0130halesi & POC"
+            ]
+        },
+        "Sales": {
+            "IN-PROGRESS": [
+                "Togg- Derin O\u0308g\u0306renme Tabanl\u0131 Arac\u0327 I\u0307c\u0327i Yu\u0308z Tespit Tan\u0131ma ve Analiz Sistemi Gelis\u0327tirme Projesi"
+            ]
+        },
+        "TOGG": {
+            "In progress": [
+                "Mlflow parametrelerinin, model scriptleri ile k\u0131yaslamas\u0131, tersten giderek model e\u011fitimi yap\u0131labiliyor mu analizi."
+            ]
+        }
+    },
+    "Berkay Top\u00e7u": {
+        "AI Lab": {
+            "In Progress": [
+                "Y\u00fcz tan\u0131ma ile \u00e7\u0131k\u0131\u015f",
+                "[5G Remote Driving] Remote Driving Station - AI Lab ta\u015f\u0131ma"
+            ]
+        },
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "Eatron - Otonom ara\u00e7",
+                "Haz\u0131m Kemal Ekenel (\u0130T\u00dc)"
+            ]
+        },
+        "Image&Video Processing": {
+            "IN-PROGRESS": [
+                "Yaani NSFW yeni data ile egitim",
+                "Yaani NSFW yeni model egitim denemesi",
+                "[YAANI - Image Similarity] Nesne Tan\u0131ma Servisi - Development",
+                "[YAANI - Image Similarity] Feature Extraction Servisi - Development",
+                "[5G Remote Driving] - Ara\u00e7 i\u00e7i video analiz"
+            ]
+        },
+        "NLP": {
+            "In Progress": [
+                "[YAANI] Inhouse NLP ihtiya\u00e7lar\u0131",
+                "[Yaani] NER G\u00fcncelleme"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - RFI"
+            ]
+        }
+    },
+    "Sezen FELEKO\u011eLU": {
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "Kulu\u00e7ka \u0130\u015fbirli\u011fi - Liveness Detection",
+                "BulutMd- Sesli Asistan Ses Datas\u0131 Toplama"
+            ]
+        },
+        "BIG DATA": {
+            "IN-PROGRESS": [
+                "Inhouse AaaS modeli",
+                "\u0130\u015f Bankas\u0131 ATM Tahminleme(AaaS)",
+                "Philip Morris AaaS POC",
+                "\u0130\u015ftegelsin AaaS POC",
+                "Akbank POC \u00c7al\u0131\u015fmas\u0131"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "TO-DO": [
+                "Hesappl\u0131 Chatbot"
+            ],
+            "IN-PROGRESS": [
+                "Chatbot Product Branding"
+            ]
+        },
+        "Image&Video Processing": {
+            "IN-PROGRESS": [
+                "[YAANI - Image Similarity] Feature Extraction Servisi - Development"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "Dergilik Podcast Uygunsuz S\u00f6ylemlerin STT ile Tespiti.",
+                "TTS Performansl\u0131 Model Geli\u015ftirme",
+                "GYK SAU Datas\u0131 REview S\u00fcreci"
+            ]
+        }
+    },
+    "Yeliz G\u00fclm\u00fc\u015f": {
+        "ARGE \u00c7al\u0131\u015fmalar\u0131": {
+            "Yap\u0131l\u0131yor": [
+                "KT\u00dc - Hukuk taraf\u0131nda s\u00f6zle\u015fme \u00e7al\u0131\u015fmas\u0131"
+            ]
+        },
+        "Chatbot Product \ud83d\ude80": {
+            "In Progress": [
+                "[HBV+Domain Bazl\u0131 Dil Modeli]Intent Kalite S\u00fcre\u00e7lerinin Sa\u011flanmas\u0131"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "Chatbot Product Branding",
+                "Chatbot Product HBV Entegrasyonu"
+            ]
+        },
+        "NLP": {
+            "TO-DO": [
+                "Kurumsal Sat\u0131\u015f-Pusula Ak\u0131ll\u0131 Arama"
+            ]
+        },
+        "ROBOTIC PROCESS AUTOMATION": {
+            "TO-DO": [
+                "RPA devreye al\u0131m taleplerinin Onedesk \u00fczerinden al\u0131nmas\u0131",
+                "RPA - Kullan\u0131c\u0131 Tan\u0131mlama Onedesk S\u00fcreci"
+            ],
+            "IN PROGRESS": [
+                "RPA i\u00e7in risk envanteri olu\u015fturulmas\u0131",
+                "Robot Optimizasyonu",
+                "Yaani SE Benchmark Robotu FAZ2"
+            ]
+        },
+        "Sales": {
+            "IN-PROGRESS": [
+                "Togg- Derin O\u0308g\u0306renme Tabanl\u0131 Arac\u0327 I\u0307c\u0327i Yu\u0308z Tespit Tan\u0131ma ve Analiz Sistemi Gelis\u0327tirme Projesi"
+            ]
+        },
+        "Turkcell AI Hub": {
+            "In-Progress": [
+                "User Management"
+            ]
+        }
+    },
+    "Elif Bayraktar": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "Birden fazla dosya/veri y\u00fckleme",
+                "Experiment Cancel - Train Status",
+                "Trainer: Status-Loglar",
+                "Test Permission",
+                "DB Veri Ta\u015f\u0131ma ve \u0130\u015fleme Analiz",
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi",
+                "Dataset Ekranlar\u0131na \"Database Se\u00e7imi\" alan\u0131n\u0131n eklenmesi",
+                "Feature Engineering Sayfas\u0131-Analiz"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - Methodology Research",
+                "Recommendation Engine - RFI"
+            ]
+        }
+    },
+    "Emre Ayd\u0131n": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "Birden fazla dosya/veri y\u00fckleme",
+                "Experiment Cancel - Train Status",
+                "Trainer: Status-Loglar",
+                "DB Veri Ta\u015f\u0131ma ve \u0130\u015fleme Analiz",
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi"
+            ]
+        },
+        "Chatbot Product \ud83d\ude80": {
+            "To-Do": [
+                "[NLU] - Mimari",
+                "[NLU] - Typo Correction"
+            ],
+            "In Progress": [
+                "[Backend + NLU] Asistan silinmesi s\u0131ras\u0131nda NLU podlar\u0131n\u0131n da kald\u0131r\u0131lmas\u0131"
+            ]
+        },
+        "ROBOTIC PROCESS AUTOMATION": {
+            "IN PROGRESS": [
+                "Robot Optimizasyonu"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - RFI",
+                "Hadoop, HIVE, Spark Best Practice'lerin ara\u015ft\u0131rman\u0131n aktar\u0131lmas\u0131"
+            ]
+        }
+    },
+    "H. Alperen Erol": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "Birden fazla dosya/veri y\u00fckleme",
+                "Test Permission",
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi"
+            ]
+        },
+        "ROBOTIC PROCESS AUTOMATION": {
+            "IN PROGRESS": [
+                "Yaani SE Benchmark Robotu FAZ2"
+            ]
+        },
+        "SENSAI & Crawlers": {
+            "In Progress": [
+                "[SENSAI ReguLetter] Front-End"
+            ]
+        }
+    },
+    "Omar Elcircevi": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "Birden fazla dosya/veri y\u00fckleme",
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi"
+            ]
+        },
+        "ODAK": {
+            "In Progress": [
+                "Odak - FMCG Sorgu Prosed\u00fcrleri",
+                "AVM, FMCG tek platformda toplanmas\u0131"
+            ]
+        }
+    },
+    "Eren Be\u015fli": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "Experiment Export Model",
+                "DB Veri Ta\u015f\u0131ma ve \u0130\u015fleme Analiz",
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi"
+            ]
+        },
+        "BIG DATA": {
+            "TO-DO": [
+                "Jotun Hedef Kitle Analizi"
+            ]
+        },
+        "ODAK": {
+            "In Progress": [
+                "Odak AVM - Amaris Turkcell  ortam\u0131na deployment+H\u0131zl\u0131 giri\u015f",
+                "Odak - INKA servis entegrasyonu",
+                "AVM, FMCG tek platformda toplanmas\u0131"
+            ]
+        }
+    },
+    "Mithat Sinan Ergen": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "Experiment Export Model",
+                "Trainer: Status-Loglar",
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi"
+            ]
+        },
+        "ODAK": {
+            "In Progress": [
+                "AVM, FMCG tek platformda toplanmas\u0131"
+            ]
+        },
+        "SENSAI & Crawlers": {
+            "In Progress": [
+                "[SENSAI] Semantic Feature",
+                "[SENSAI ReguLetter] Front-End",
+                "[Azercell] Crawler \u00c7al\u0131\u015fmalar\u0131 S\u00fcre\u00e7ler (POC)",
+                "[Azercell] Operat\u00f6r Paket Kar\u015f\u0131la\u015ft\u0131rmalar\u0131",
+                "Binary Risk Classification modeli i\u00e7in veri etiketleme"
+            ]
+        }
+    },
+    "Halil \u0130brahim Demirel": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "DB Veri Ta\u015f\u0131ma ve \u0130\u015fleme Analiz",
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi",
+                "Dataset Object Storage Upload Test (S\u00fcre)"
+            ]
+        },
+        "SENSAI & Crawlers": {
+            "In Progress": [
+                "[Azercell] Crawler \u00c7al\u0131\u015fmalar\u0131 S\u00fcre\u00e7ler (POC)",
+                "[Azercell] Operat\u00f6r Crawler (BakCell)"
+            ]
+        }
+    },
+    "Ahmet Olguner": {
+        "AutoML Platform": {
+            "IN PROGRESS": [
+                "\u00dcr\u00fcn \u0130sminin Belirlenmesi"
+            ]
+        },
+        "Image&Video Processing": {
+            "TO-DO": [
+                "[ISG] Omsan Depoda ISG Denetimi"
+            ]
+        },
+        "ROBOTIC PROCESS AUTOMATION": {
+            "IN PROGRESS": [
+                "Robot Optimizasyonu",
+                "Yaani SE Benchmark Robotu FAZ2"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - RFI"
+            ]
+        }
+    },
+    "fthmstfylmz": {
+        "BIG DATA": {
+            "IN-PROGRESS": [
+                "IAAS - Petrol Ofisi \u0130stasyon Analizleri"
+            ]
+        },
+        "ODAK": {
+            "In Progress": [
+                "Odak - INKA servis entegrasyonu",
+                "Odak - FMCG Sorgu Prosed\u00fcrleri"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - RFI",
+                "[TV+] IPTV-OTT GA Entegrasyonu Koordinasyon"
+            ]
+        }
+    },
+    "Yusuf Yaz\u0131c\u0131": {
+        "BIG DATA": {
+            "IN-PROGRESS": [
+                "Marketplace Fraud Detection",
+                "Philip Morris AaaS POC"
+            ]
+        },
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[FOYA] | AIP taraf\u0131nda ba\u015far\u0131l\u0131 sorgu say\u0131lmas\u0131",
+                "[FOYA] | Healthcheck Servisi Yaz\u0131lmas\u0131"
+            ]
+        },
+        "OPT\u0130K": {
+            "In-Progress": [
+                "[Lifebox] Stat\u00fc Takibi",
+                "[OCR] T\u00fcrk\u00e7e Karakter Tan\u0131ma \u0130yile\u015ftirme - PADDLE"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Turkcell.com.tr recommendation engine",
+                "Recommendation Engine - RFI"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "Dergilik Podcast Uygunsuz S\u00f6ylemlerin STT ile Tespiti."
+            ]
+        }
+    },
+    "Yusuf \u00c7akmak": {
+        "BIG DATA": {
+            "IN-PROGRESS": [
+                "Akbank POC \u00c7al\u0131\u015fmas\u0131"
+            ]
+        },
+        "Chatbot Product \ud83d\ude80": {
+            "To-Do": [
+                "[NLU] - Typo Correction"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "HR Gncytnk Chatbot"
+            ]
+        },
+        "NLP": {
+            "In Progress": [
+                "[YAANI] Inhouse NLP ihtiya\u00e7lar\u0131",
+                "Global STT- Otomatik SR Atama",
+                "Global STT - VOC \u00c7al\u0131\u015fmas\u0131",
+                "Global STT - \u0130\u00e7 Denetim i\u00e7in M\u00fc\u015fteri \u015eikayet Analizi"
+            ]
+        }
+    },
+    "Emin G\u00fcre": {
+        "Chatbot Product \ud83d\ude80": {
+            "To-Do": [
+                "[Logger] Logger Service Deployment"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "TO-DO": [
+                "Sipari\u015fim Chatbot"
+            ],
+            "IN-PROGRESS": [
+                "Celly - Yeni NLU Entegrasyon",
+                "Celly - Chatbot History Omnichannel'da G\u00f6sterimi",
+                "Celly - Internal Proaktivite Salla Kazan",
+                "Celly - Kalite Ekranlar\u0131 (Amaris)",
+                "Celly - Diyalog \u0130yile\u015ftirmeler"
+            ]
+        },
+        "Turkcell AI Hub": {
+            "In-Progress": [
+                "AI Platform UI"
+            ]
+        }
+    },
+    "ilknur durgar": {
+        "Chatbot Product \ud83d\ude80": {
+            "In Progress": [
+                "[HBV+Domain Bazl\u0131 Dil Modeli]Intent Kalite S\u00fcre\u00e7lerinin Sa\u011flanmas\u0131"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "Chatbot Product HBV Entegrasyonu"
+            ]
+        },
+        "NLP": {
+            "In Progress": [
+                "[YAANI] Inhouse NLP ihtiya\u00e7lar\u0131",
+                "[Yaani]- Sports Widget Classifier",
+                "[Yaani] Adult Modeli",
+                "[Yaani] NER G\u00fcncelleme"
+            ]
+        },
+        "Veri Etiketleme": {
+            "In Progress": [
+                "HTML kategorizasyonu"
+            ]
+        }
+    },
+    "Serkan Ekrem Cengiz": {
+        "Chatbot Product \ud83d\ude80": {
+            "In Progress": [
+                "[HBV+Domain Bazl\u0131 Dil Modeli]Intent Kalite S\u00fcre\u00e7lerinin Sa\u011flanmas\u0131"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "Yaani Asistan - SSS'lerin Intent Olarak Eklenmesi",
+                "Chatbot Product HBV Entegrasyonu"
+            ]
+        }
+    },
+    "\u015feyma erdem": {
+        "Chatbot Product \ud83d\ude80": {
+            "In Progress": [
+                "[HBV+Domain Bazl\u0131 Dil Modeli]Intent Kalite S\u00fcre\u00e7lerinin Sa\u011flanmas\u0131"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "Chatbot Product HBV Entegrasyonu"
+            ]
+        },
+        "NLP": {
+            "In Progress": [
+                "[YAANI] Inhouse NLP ihtiya\u00e7lar\u0131",
+                "[Yaani]- Sports Widget Classifier"
+            ]
+        }
+    },
+    "Aysel Aydin": {
+        "Chatbot Product \ud83d\ude80": {
+            "In Progress": [
+                "Arnavutk\u00f6y Belediyesi ChatBot i\u015fi"
+            ]
+        },
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "Celly - Kalite Ekranlar\u0131 (Amaris)"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "GYK SAU Datas\u0131 REview S\u00fcreci"
+            ]
+        }
+    },
+    "Tunahan Erg\u00fcl": {
+        "Chatbot \u0130\u015flerimiz": {
+            "TO-DO": [
+                "Hesappl\u0131 Chatbot",
+                "TV+ Chatbot",
+                "Sipari\u015fim Chatbot",
+                "YaaniMail Chatbot"
+            ],
+            "IN-PROGRESS": [
+                "Yaani Asistan - SSS'lerin Intent Olarak Eklenmesi",
+                "Celly - Yeni NLU Entegrasyon",
+                "Celly - Chatbot History Omnichannel'da G\u00f6sterimi",
+                "Celly - Internal Proaktivite Salla Kazan",
+                "Celly - Kalite Ekranlar\u0131 (Amaris)",
+                "Celly - Diyalog \u0130yile\u015ftirmeler",
+                "Celly - Diyalog Sonu Anket"
+            ]
+        },
+        "Image&Video Processing": {
+            "IN-PROGRESS": [
+                "[AYNA - MASKE] - Yeniden model e\u011fitimi ve bayide son testler"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - Methodology Research",
+                "Recommendation Engine - RFI",
+                "[TV+] IPTV-OTT GA Entegrasyonu Koordinasyon"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "Dergilik Podcast Uygunsuz S\u00f6ylemlerin STT ile Tespiti.",
+                "TTS Performansl\u0131 Model Geli\u015ftirme"
+            ]
+        }
+    },
+    "Emre Art\u0131\u015f": {
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "Celly - Yeni NLU Entegrasyon",
+                "Onedesk Chatbot",
+                "Bayii \u00c7al\u0131\u015fan\u0131 Chatbot"
+            ]
+        }
+    },
+    "atakan.bebek": {
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "Celly - Internal Proaktivite Salla Kazan",
+                "Bip Black Chatbot"
+            ]
+        },
+        "NLP": {
+            "In Progress": [
+                "[YAANI] Inhouse NLP ihtiya\u00e7lar\u0131",
+                "[Yaani] Adult Modeli"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "GYK SAU Datas\u0131 REview S\u00fcreci"
+            ]
+        }
+    },
+    "Ayse Vildan": {
+        "Chatbot \u0130\u015flerimiz": {
+            "IN-PROGRESS": [
+                "HR Gncytnk Chatbot"
+            ]
+        },
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[PATROL] | FEATURE | Fraud ekibinden geri besleme yap\u0131s\u0131, FOYA do\u011fruluk de\u011ferlendirmesi",
+                "[FOYA] | AIP taraf\u0131nda ba\u015far\u0131l\u0131 sorgu say\u0131lmas\u0131"
+            ]
+        },
+        "NLP": {
+            "In Progress": [
+                "Global STT- Otomatik SR Atama",
+                "Global STT - VOC \u00c7al\u0131\u015fmas\u0131",
+                "Global STT - \u0130\u00e7 Denetim i\u00e7in M\u00fc\u015fteri \u015eikayet Analizi"
+            ]
+        },
+        "ROBOTIC PROCESS AUTOMATION": {
+            "TO-DO": [
+                "RPA - Kullan\u0131c\u0131 Tan\u0131mlama Onedesk S\u00fcreci"
+            ],
+            "IN PROGRESS": [
+                "RPA i\u00e7in risk envanteri olu\u015fturulmas\u0131"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Turkcell.com.tr recommendation engine"
+            ]
+        },
+        "SIMA": {
+            "IN-PROGRESS (BAYI ANALITIK)": [
+                "Edge Device-Kamera \u0130halesi & POC"
+            ]
+        },
+        "Sales": {
+            "IN-PROGRESS": [
+                "Garenta Moov"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "Yapay Zeka Sesi \u0130le IK \u0130\u015fe Al\u0131m"
+            ]
+        }
+    },
+    "Erkan Haspulat": {
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[FOYA] | AIP taraf\u0131nda ba\u015far\u0131l\u0131 sorgu say\u0131lmas\u0131"
+            ]
+        },
+        "Turkcell AI Hub": {
+            "In-Progress": [
+                "`aip` paketinin dok\u00fcmantasyonu yap\u0131l\u0131yor."
+            ]
+        }
+    },
+    "Hakan Ta\u015fk\u00f6pr\u00fc": {
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[FOYA] | AIP taraf\u0131nda ba\u015far\u0131l\u0131 sorgu say\u0131lmas\u0131",
+                "[FOYA] | Healthcheck Servisi Yaz\u0131lmas\u0131",
+                "[FOYA] | API dok\u00fcmantasyonu haz\u0131rlanmas\u0131 & DBS ile payla\u015f\u0131m",
+                "[FOYA] | NFC SDK lisans kontrol\u00fc"
+            ]
+        },
+        "OPT\u0130K": {
+            "In-Progress": [
+                "Kimlik kartlar\u0131 model s\u0131n\u0131fland\u0131r\u0131lmas\u0131"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - RFI"
+            ]
+        },
+        "SIMA": {
+            "IN-PROGRESS (BAYI ANALITIK)": [
+                "TIM - sourceHandler",
+                "Edge Device-Kamera \u0130halesi & POC"
+            ]
+        }
+    },
+    "erdem.kaya": {
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[FOYA] | AIP taraf\u0131nda ba\u015far\u0131l\u0131 sorgu say\u0131lmas\u0131",
+                "[FOYA] | Healthcheck Servisi Yaz\u0131lmas\u0131",
+                "[FOYA] | Neuro ile FOYA entegrasyonu"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - RFI",
+                "[TV+] IPTV-OTT GA Entegrasyonu Koordinasyon"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "HBYS Geriatri B\u00f6l\u00fcm\u00fc STT",
+                "GYK SAU Datas\u0131 REview S\u00fcreci",
+                "[Speaker Verification] Servis Geli\u015ftirmesi"
+            ]
+        }
+    },
+    "\u015eeyma Kandemir": {
+        "FOYA": {
+            "IN-PROGRESS": [
+                "[FOYA] | API dok\u00fcmantasyonu haz\u0131rlanmas\u0131 & DBS ile payla\u015f\u0131m",
+                "[FOYA] | FOYA mobil app kodlar\u0131n taramas\u0131"
+            ]
+        },
+        "Recommendation Engine": {
+            "In-Progress": [
+                "Recommendation Engine - Methodology Research",
+                "Recommendation Engine - RFI"
+            ]
+        }
+    },
+    "Ece Kutlu": {
+        "Image&Video Processing": {
+            "TO-DO": [
+                "[ISG] Omsan Depoda ISG Denetimi",
+                "\u00dcretim Band\u0131 PoC"
+            ]
+        },
+        "OPT\u0130K": {
+            "In-Progress": [
+                "[Optik Mod\u00fcl\u00fc] Test",
+                "[Optik Mod\u00fcl\u00fc] Kimlik Testleri",
+                "[Lifebox] Stat\u00fc Takibi",
+                "[Optik Mod\u00fcl\u00fc] Kelime bazl\u0131 d\u00f6n\u00fc\u015flerdeki koordinat iyile\u015ftirmesi",
+                "[OCR] T\u00fcrk\u00e7e Karakter Tan\u0131ma \u0130yile\u015ftirme - PADDLE",
+                "[TASNIF] Model \u0130yile\u015ftirme",
+                "Kimlik kartlar\u0131 model s\u0131n\u0131fland\u0131r\u0131lmas\u0131",
+                "Kimlik test seti"
+            ]
+        },
+        "SENSAI & Crawlers": {
+            "In Progress": [
+                "[SENSAI] Semantic Feature",
+                "[SENSAI ReguLetter] Front-End",
+                "Paycell - Donan\u0131m Haber"
+            ]
+        },
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "[Speaker Verification] H\u0131zl\u0131 Giri\u015f",
+                "[Speaker Verification] Servis Geli\u015ftirmesi",
+                "[Speaker Verification] STT Entegrasyonu"
+            ]
+        }
+    },
+    "Burak Bagatarhan": {
+        "Image&Video Processing": {
+            "TO-DO": [
+                "[ISG] Omsan Depoda ISG Denetimi"
+            ]
+        }
+    },
+    "UMIT YILDIRIM": {
+        "Image&Video Processing": {
+            "TO-DO": [
+                "\u00dcretim Band\u0131 PoC"
+            ]
+        }
+    },
+    "Muhammet Ra\u015fit Tosun": {
+        "Image&Video Processing": {
+            "TO-DO": [
+                "\u00dcretim Band\u0131 PoC"
+            ]
+        }
+    },
+    "Emre Cetin": {
+        "Image&Video Processing": {
+            "IN-PROGRESS": [
+                "[5G Remote Driving] - Ara\u00e7 i\u00e7i video analiz"
+            ]
+        }
+    },
+    "Ismail ATALAY": {
+        "Image&Video Processing": {
+            "IN-PROGRESS": [
+                "[5G Remote Driving] - Ara\u00e7 i\u00e7i video analiz"
+            ]
+        },
+        "Sales": {
+            "IN-PROGRESS": [
+                "Togg- Derin O\u0308g\u0306renme Tabanl\u0131 Arac\u0327 I\u0307c\u0327i Yu\u0308z Tespit Tan\u0131ma ve Analiz Sistemi Gelis\u0327tirme Projesi"
+            ]
+        }
+    },
+    "Yasemin Yetimova": {
+        "ODAK": {
+            "In Progress": [
+                "Odak - FMCG Sorgu Prosed\u00fcrleri"
+            ]
+        },
+        "SENSAI & Crawlers": {
+            "In Progress": [
+                "[Azercell] Crawler \u00c7al\u0131\u015fmalar\u0131 S\u00fcre\u00e7ler (POC)"
+            ]
+        }
+    },
+    "Mahmut YILMAZ": {
+        "ODAK": {
+            "In Progress": [
+                "AVM, FMCG tek platformda toplanmas\u0131"
+            ]
+        },
+        "SENSAI & Crawlers": {
+            "In Progress": [
+                "[SENSAI ReguLetter] Front-End",
+                "[Azercell] Crawler \u00c7al\u0131\u015fmalar\u0131 S\u00fcre\u00e7ler (POC)",
+                "Paycell - Donan\u0131m Haber"
+            ]
+        }
+    },
+    "Erol \u00c7\u0131tak": {
+        "OPT\u0130K": {
+            "In-Progress": [
+                "[Optik Mod\u00fcl\u00fc] Test",
+                "[Lifebox] Stat\u00fc Takibi",
+                "[Optik Mod\u00fcl\u00fc] Kelime bazl\u0131 d\u00f6n\u00fc\u015flerdeki koordinat iyile\u015ftirmesi",
+                "[OCR] T\u00fcrk\u00e7e Karakter Tan\u0131ma \u0130yile\u015ftirme - PADDLE",
+                "[TASNIF] Model \u0130yile\u015ftirme"
+            ]
+        }
+    },
+    "caner.canak": {
+        "ROBOTIC PROCESS AUTOMATION": {
+            "IN PROGRESS": [
+                "RPA i\u00e7in risk envanteri olu\u015fturulmas\u0131"
+            ]
+        }
+    },
+    "Zeynep Uslu": {
+        "Speech Analytics": {
+            "TO-DO": [
+                "Noise Cancellation"
+            ],
+            "IN-PROGRESS": [
+                "[Speaker Verification] H\u0131zl\u0131 Giri\u015f",
+                "Voice Cloning TTS",
+                "[Speaker Verification] Servis Geli\u015ftirmesi",
+                "[Speaker Verification] STT Entegrasyonu"
+            ]
+        }
+    },
+    "Buyukzincir": {
+        "Speech Analytics": {
+            "TO-DO": [
+                "Noise Cancellation",
+                "Turkcell Alarm Aramalar\u0131n\u0131n TTS Replacement\u0131"
+            ],
+            "IN-PROGRESS": [
+                "Dergilik Podcast Uygunsuz S\u00f6ylemlerin STT ile Tespiti.",
+                "Bayii Denetim Kurgusu \u015eark\u0131 Alg\u0131lama",
+                "HBYS Geriatri B\u00f6l\u00fcm\u00fc STT",
+                "TTS Performansl\u0131 Model Geli\u015ftirme",
+                "Yapay Zeka Sesi \u0130le IK \u0130\u015fe Al\u0131m",
+                "Voice Cloning TTS",
+                "TTS SSML geli\u015ftirmesi",
+                "Hayal Orta\u011f\u0131m Sesli Betimleme"
+            ]
+        }
+    },
+    "Bora Tosun": {
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "Dergilik Podcast Uygunsuz S\u00f6ylemlerin STT ile Tespiti.",
+                "XIVT-Testotomasyon STT",
+                "[Speaker Verification] H\u0131zl\u0131 Giri\u015f",
+                "GYK SAU Datas\u0131 REview S\u00fcreci",
+                "[Speaker Verification] Servis Geli\u015ftirmesi",
+                "[Speaker Verification] STT Entegrasyonu"
+            ]
+        }
+    },
+    "Tu\u011f\u00e7e Ko\u00e7ak": {
+        "Speech Analytics": {
+            "IN-PROGRESS": [
+                "TTS Performansl\u0131 Model Geli\u015ftirme",
+                "Yapay Zeka Sesi \u0130le IK \u0130\u015fe Al\u0131m",
+                "Voice Cloning TTS"
+            ]
+        }
+    }
+}

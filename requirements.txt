@@ -1,0 +1,13 @@
+python-dotenv
+discord-py
+pymongo==3.12.1
+pymongo[srv]==3.12.1
+certifi
+pandas
+numpy
+apscheduler
+asyncio
+requests
+ipython
+pyyaml
+jinja2
